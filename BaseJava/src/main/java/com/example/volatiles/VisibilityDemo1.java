@@ -1,4 +1,4 @@
-package com.example.concurrent;
+package com.example.volatiles;
 
 /**
  * @author protry
